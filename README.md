@@ -1,48 +1,56 @@
 # Pedrorocha-aula05-pi
-Ativivdade/relatotio.
+Atividade/relatório.
 
-## criacao de repositorio 
+## Criação de repositório
 
- __trta-se de um meio de armazenar e organizar os documentos de um projeto 
- permitindo acesso de outros para colaboraçao no mesmo.__
+__Trata-se de um meio de armazenar e organizar os documentos de um projeto,
+permitindo o acesso de outras pessoas para colaboração no mesmo.__
 
- ## clone e repositorio 
+## Clone de repositório
 
-  __meio de acesso indireto a estrutura do projeto/sisitema usando um clone permitindo alteraçao sem qualquer interferenccia no projeto "real", clona o repositorio remoto para sua maquina__
+__Meio de acesso indireto à estrutura do projeto/sistema usando um clone,
+permitindo alterações sem qualquer interferência no projeto "real".
+Clona o repositório remoto para sua máquina.__
 
-  ## criacçao de branch 
- __permite alteraçaço na estrutura do sisitema de forma a nao afetar a linha principal do projeto, permitindo testar implementacoes e reporrtar possiveis implementacoes de outros no projeto__
+## Criação de branch
 
- ## registro de commits 
+__Permite alterações na estrutura do sistema de forma a não afetar a linha
+principal do projeto, permitindo testar implementações e reportar possíveis
+implementações de outros no projeto.__
 
-  __registra cada anova alteracao na estrutura do codigo__
+## Registro de commits
 
-  ## Envio das alterações (push)
+__Registra cada nova alteração na estrutura do código.__
 
-   __envia as alteraçoes diretamente para o repositorio localizado no ghithub__
+## Envio das alterações (push)
 
-   ## Atualização do repositório local (pull)
+__Envia as alterações diretamente para o repositório localizado no GitHub.__
 
-   __pega as alteraçoes feitas diretamente no repositorio localizado no ghithub  e atualiza
- no repositorio local__
+## Atualização do repositório local (pull)
 
- ## Criação de Issues 
+__Pega as alterações feitas diretamente no repositório localizado no GitHub
+e atualiza o repositório local.__
 
- __serve para definir demandas e questoes a serem resolvidas em seus respectivos tipos e pra determinados colaboradores__
+## Criação de Issues
 
- ## Organização com Milestone
+__Serve para definir demandas e questões a serem resolvidas em seus
+respectivos tipos e para determinados colaboradores.__
 
- __ultilizada para separar as isssues determinando seus tipos de acordo com oque foi proposto__
+## Organização com Milestone
 
- ## Gerenciamento com Project
+__Utilizada para separar as issues, determinando seus tipos de acordo
+com o que foi proposto.__
 
-__permite melhor gerenciamento a admninstraçao do projeto usando as ferramentas disponiveis__
+## Gerenciamento com Project
 
-## Abertura de Pull Reques
+__Permite melhor gerenciamento e administração do projeto usando as
+ferramentas disponíveis, como quadros de progresso.__
 
-__permissao para integrar as alteraçoes no sistema__
+## Abertura de Pull Request
+
+__Permissão para integrar as alterações no sistema e realizar a revisão
+da estrutura implementada.__
 
 ## Realização de Merge
 
-__integraçao__
- 
+__Processo de integração de uma branch à branch principal.__
